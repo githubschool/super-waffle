@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hello World!
+Hello World Wide Web!
 
 I enjoy writing nodeJS
 
