@@ -2,6 +2,7 @@
 
 - Class Date: February 7th - 8th, 2022
 - Facilitator: @chocrates
+- Another change to be COMMITTED   $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ## Class Resources
 
