@@ -3,5 +3,3 @@ _site/
 .jekyll-metadata
 .bundle
 vendor/
-/.vs/super-waffle/v16
-/.vs
