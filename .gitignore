@@ -3,5 +3,3 @@ _site/
 .jekyll-metadata
 .bundle
 vendor/
-/.vs/slnx.sqlite
-/.vs/super-waffle/v16/.suo
