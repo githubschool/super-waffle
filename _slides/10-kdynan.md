@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Kdynan's caption here!!!
+Caption from VS Code
+
 
 ![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
 {: .center}
