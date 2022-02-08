@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello World!
+
+Hello World Hello World!!
 
 ![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
 {: .center}
